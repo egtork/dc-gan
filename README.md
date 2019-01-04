@@ -1,2 +1,2 @@
-# dcgan
-PyTorch implementation of Deep Convolutional Generative Adversarial Networks
+# Deep Convolutional Generative Adversarial Network
+PyTorch implementation of DC-GAN
